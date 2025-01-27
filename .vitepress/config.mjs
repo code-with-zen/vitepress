@@ -4,7 +4,7 @@ import { set_sidebar } from "./utils/auto_sidebar.mjs";
 export default defineConfig({
   title: "程序练习生",
   description: "A VitePress Site",
-  head: [["link", { rel: "icon", href: "/vitepress/icon1.png" }]],
+  head: [["link", { rel: "icon", href: "/vitepress/huli.svg" }]],
   base: "/vitepress/",
   themeConfig: {
     sidebar: false, // 关闭侧边栏
