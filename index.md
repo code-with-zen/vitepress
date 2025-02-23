@@ -27,7 +27,7 @@ features:
              An idealist who loves life
             
   - title: 我从哪里来
-    details: 秦皇岛，河北  <br>
+    details: 秦皇岛（河北）  <br>
              衡水中学
   - title: 我要到哪里去
     details: 去寻找幸福快乐的生活
