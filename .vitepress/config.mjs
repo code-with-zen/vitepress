@@ -36,8 +36,7 @@ export default defineConfig({
           { text: '敬请期待', link: "/A/A2" },
           { text: '敬请期待', link: "/A/A3" }
         ]
-      },
-      
+      }
     ],
   
     socialLinks: [
