@@ -7,7 +7,7 @@ hero:
   text: "Zen"
   tagline: 不管多远的距离，越努力就越靠近
   image:
-    src: t1.png
+    src: https://chinese.aljazeera.net/wp-content/uploads/2023/01/1-124.jpg?resize=770%2C513&quality=80
     alt: 背景
   actions:
     - theme: brand
