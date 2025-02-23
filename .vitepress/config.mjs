@@ -14,29 +14,30 @@ export default defineConfig({
     logo: '/icon1.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'A', 
+      {
+        text: '导航',
         items: [
-          { text: 'A1', link: "/A/A1" },
-          { text: 'A2', link: "/A/A2" },
-          { text: 'A3', link: "/A/A3" }
+          { text: '编程', link: "/C/C1" },
+          { text: '图片', link: "/C/C2" }
         ]
       },
       {
-        text: 'B',
+        text: '兴趣',
         items: [
-          { text: 'B1', link: "/B/B1" },
-          { text: 'B2', link: "/B/B2" },
-          { text: 'B3', link: "/B/B3" }
+          { text: '脱口秀', link: "/B/B1" },
+          { text: '说唱', link: "/B/B2" },
+          { text: '电影', link: "/B/B3" }
         ]
       },
       {
-        text: 'C',
+        text: '学习',
         items: [
-          { text: 'C1', link: "/C/C1" },
-          { text: 'C2', link: "/C/C2" },
-          { text: 'C3', link: "/C/C3" }
+          { text: '敬请期待', link: "/A/A1" },
+          { text: '敬请期待', link: "/A/A2" },
+          { text: '敬请期待', link: "/A/A3" }
         ]
-      }
+      },
+      
     ],
   
     socialLinks: [
