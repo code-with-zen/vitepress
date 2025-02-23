@@ -22,11 +22,12 @@ hero:
 
 features:
   - title: 我是谁
-    details: A huster major in CS  
-             An amateur designer interested in visual arts  
+    details: A huster major in CS  <br>
+             An amateur designer interested in visual arts  <br>
              An idealist who loves life
+            
   - title: 我从哪里来
-    details: 秦皇岛，河北  
+    details: 秦皇岛，河北  <br>
              衡水中学
   - title: 我要到哪里去
     details: 去寻找幸福快乐的生活
