@@ -7,7 +7,7 @@ hero:
   text: "Zen"
   tagline: 不管多远的距离，越努力就越靠近
   image:
-    src: /bg2.jpg
+    src: https://cdn.gallerix.asia/j/_UNK/1018810316/3526.webp
     alt: 背景
   actions:
     - theme: brand
@@ -22,14 +22,14 @@ hero:
 
 features:
   - title: 我是谁
-    details: A **huster** major in **CS**  <br>
+    details: A huster major in CS  <br>
              An amateur designer interested in visual arts  <br>
              An idealist who loves life
             
   - title: 我从哪里来
     details: 秦皇岛（河北）  <br>
              衡水中学
-             
+
   - title: 我要到哪里去
     details: 去寻找幸福快乐的生活
 ---
