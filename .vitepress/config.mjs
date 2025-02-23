@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { set_sidebar } from "./utils/auto_sidebar.mjs";	
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "程序练习生",
+  title: "CODE WITH ZEN",
   description: "A VitePress Site",
   head: [["link", { rel: "icon", href: "/vitepress/huli.svg" }]],
   base: "/vitepress/",
@@ -40,11 +40,13 @@ export default defineConfig({
     ],
   
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/code-with-zen' }
+      { icon: 'github', link: 'https://github.com/code-with-zen' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/398590449' },
+      { icon: 'xiaohongshu', link:'https://www.xiaohongshu.com/user/profile/6489b684000000001f005fc2' }
     ],
 
     footer:{
-      copyright:"Copyright © 2025-present Sunheart"
+      copyright:"Copyright © 2025-present Zen"
     },
 
     search:{

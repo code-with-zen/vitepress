@@ -3,26 +3,29 @@
 layout: home
 
 hero:
-  name: "程序练习生"
-  text: "Sunheart"
+  name: "CODE WITH ME"
+  text: "Zen"
   tagline: 不管多远的距离，越努力就越靠近
   image:
-    src: /background.svg
+    src: /bg2.jpg
     alt: 背景
   actions:
     - theme: brand
-      text: "京东"
-      link: https://www.jd.com
+      text: "DeepSeek"
+      link: https://chat.deepseek.com/
     - theme: alt
-      text: "淘宝"
-      link: https://www.taobao.com
+      text: "Gemini"
+      link: https://gemini.google.com/app
+    - theme: alt
+      text: "ChatGPT"
+      link: https://chatgpt.com/
 
 features:
-  - title: Feature A
-    details: 描述1
-  - title: Feature B
-    details: 描述2
-  - title: Feature C
-    details: 描述3
+  - title: 我是谁
+    details: A huster major in CS,an amateur designer interested in visual arts,and an idealist who loves life.
+  - title: 我从哪里来
+    details: 秦皇岛，河北\n  衡水中学
+  - title: 我要到哪里去
+    details: 去寻找幸福快乐的生活
 ---
 
